@@ -1,0 +1,10 @@
+Especially after covid situations these projects have real life significance. Loved to build this application...
+
+
+The dataset is given to CNN class VGG16 to train the model.
+It is a classifier kind of machine learning model which classifies between two categories as mask and no mask. 
+Transfer learning is used in which the model is trained according to the previous knowledge.
+
+It depends on the quality and the quantity of the dataset whether the app is predicted correctly or not. 
+
+The total accuracy of the model I prepared came out to be 96% which is pretty fine.
