@@ -24,7 +24,7 @@ real-time using a webcam.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/mask-detection.git
+   git clone https://github.com/AryaPathak/MaskDetectionML
    cd mask-detection
    ```
 
