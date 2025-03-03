@@ -1,5 +1,5 @@
 
-```markdown
+
 # Mask Detection using CNN and OpenCV
 
 This project aims to detect whether a person is wearing a mask or not
@@ -64,5 +64,3 @@ This project is open-source and available under the MIT License.
 
 
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username. Let me know if you want any modifications! 🚀
